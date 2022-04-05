@@ -1,5 +1,5 @@
 * {
-    font-famaly: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
 
@@ -8,10 +8,10 @@ body{
 
 }
 
-main{
+main {
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(rgb(255, 0, 0), green, blue, alpha);
 }
